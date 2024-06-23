@@ -1,7 +1,7 @@
 # IAC-Project (Portuguese)
 Introdução a Arquitetura de Computadores
 
-# Mnaual de Utilizador
+# Manual de Utilizador
 Teclas 0, 1 e 2: lançar uma sonda para a esquerda, em frente e para a direita, 
 respetivamente. 
 
